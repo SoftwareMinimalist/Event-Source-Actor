@@ -1,7 +1,8 @@
 # Event Source Actor
 Actor for LabVIEW Actor Framework implementing publisher subscriber model of communication with zero coupling
 
-Author: Piotr Kruczkowski
+**Source LabVIEW Version:** 2019 
+**Author:** Piotr Kruczkowski
 
 # Introduction 
 I wanted to share with you a small example actor I wrote to help me with typical subscribing/registering actors.
