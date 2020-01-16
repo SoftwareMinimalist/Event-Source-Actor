@@ -2,6 +2,7 @@
 Actor for LabVIEW Actor Framework implementing publisher subscriber model of communication with zero coupling
 
 **Source LabVIEW Version:** 2019 
+
 **Author:** Piotr Kruczkowski
 
 # Introduction 
