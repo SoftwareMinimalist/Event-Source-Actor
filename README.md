@@ -23,7 +23,13 @@ To create/use a new event source user needs to:
  
 The code is quite efficient (faster than array search) because it uses a dictionary for storing registered actors and events.
 
+![](Images/ESA1.PNG)
 
+![](Images/ESA2.PNG)
+
+![](Images/ESA3.PNG)
+
+![](Images/ESA4.PNG)
 
 # Criticism of Subscriber Publisher communication model
 ToDo
