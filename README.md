@@ -34,4 +34,4 @@ The code is quite efficient (faster than array search) because it uses a diction
 ![](Images/ESA4.PNG)
 
 # Criticism of Subscriber Publisher communication model
-ToDo
+https://www.wikiwand.com/en/Publish%E2%80%93subscribe_pattern#Disadvantages
