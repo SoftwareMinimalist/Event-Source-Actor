@@ -4,19 +4,13 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
-	<Item Name="Event Broadcasting Abstract Msg" Type="Folder">
-		<Item Name="Event Generated Msg.lvclass" Type="LVClass" URL="../Event Source Messages/Event Generated Msg/Event Generated Msg.lvclass"/>
-	</Item>
-	<Item Name="Interfaces" Type="Folder">
-		<Item Name="IEventReceiver.lvclass" Type="LVClass" URL="../../IEventReceiver/IEventReceiver.lvclass"/>
-		<Item Name="IEventSource.lvclass" Type="LVClass" URL="../IEventSource/IEventSource.lvclass"/>
-	</Item>
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="Generate Event Msg.lvclass" Type="LVClass" URL="../Event Source Messages/Generate Event Msg/Generate Event Msg.lvclass"/>
-		<Item Name="Register Msg.lvclass" Type="LVClass" URL="../Event Source Messages/Register Msg/Register Msg.lvclass"/>
-		<Item Name="Unregister Event Msg.lvclass" Type="LVClass" URL="../Event Source Messages/Unregister Event Msg/Unregister Event Msg.lvclass"/>
+		<Item Name="Register For Event Msg.lvclass" Type="LVClass" URL="../Event Source Messages/Register For Event Msg/Register For Event Msg.lvclass"/>
+		<Item Name="Unregister For Event Msg.lvclass" Type="LVClass" URL="../Event Source Messages/Unregister For Event Msg/Unregister For Event Msg.lvclass"/>
 		<Item Name="Unregister Msg.lvclass" Type="LVClass" URL="../Event Source Messages/Unregister Msg/Unregister Msg.lvclass"/>
 	</Item>
+	<Item Name="Event Data.lvclass" Type="LVClass" URL="../Event Data/Event Data.lvclass"/>
+	<Item Name="Event Source Actor.lvclass" Type="LVClass" URL="../Event Source Actor/Event Source Actor.lvclass"/>
 	<Item Name="Event Source.lvclass" Type="LVClass" URL="../Event Source/Event Source.lvclass"/>
-	<Item Name="Event.lvclass" Type="LVClass" URL="../Event/Event.lvclass"/>
 </Library>
