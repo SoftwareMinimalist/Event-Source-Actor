@@ -10,8 +10,8 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Event Receiver.lvlib" Type="Library" URL="../Event Receiver/Event Receiver.lvlib"/>
-		<Item Name="Event Source.lvlib" Type="Library" URL="../Event Source/Event Source.lvlib"/>
+		<Item Name="Event Receiver.lvlib" Type="Library" URL="../Template Receiver/Event Receiver.lvlib"/>
+		<Item Name="Event Source.lvlib" Type="Library" URL="../Template Source/Event Source.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Actor Framework.lvlib" Type="Library" URL="/&lt;vilib&gt;/ActorFramework/Actor Framework.lvlib"/>
